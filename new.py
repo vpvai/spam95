@@ -2,9 +2,9 @@
 '''
    Author : Endin Aenudin
    Social ;
-            Github    : /Din-zUgex95
-            Youtube   : Din-zUgex95
-            Instagram : din.z95
+            Github    : /vpVai
+            Youtube   : vp vai.Offical
+            Instagram : vp vai
 '''
 #======================================#
 
